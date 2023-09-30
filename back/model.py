@@ -1,5 +1,3 @@
-
-
 class Customer():
     pass
 
